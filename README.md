@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on reinventing myself after more than a decade in the industry. 
 
-📫 How to reach me: https://www.linkedin.com/in/chiranjibmazumdar/ 
+📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/chiranjibmazumdar/). 
 
 😄 Pronouns: He/Him
