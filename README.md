@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on reinventing myself after more than a decade in the industry. 
+🔭 I’m currently working on reinventing myself after more than 15 years in the industry. 
 
 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/chiranjibmazumdar/). 
 
