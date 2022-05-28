@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on reinventing myself after more than a decade in the industry.
+- 🔭 I’m currently working on reinventing myself after more than 15 years in the industry.
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
