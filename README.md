@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Chiranjib Mazumdar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0969DA&center=true&vCenter=true&width=600&lines=Application+Architect;Data Engineer;People+Manager;Cloud+%26+Analytics+Expert;AI+Solutions+Implementer;Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0969DA&center=true&vCenter=true&width=600&lines=Application+Architect;Data+Engineer;People+Manager;Cloud+%26+Analytics+Expert;AI+Solutions+Implementer;Lifelong+Learner" alt="Typing SVG" />
 
 ### 🚀 Transforming Ideas into Scalable Solutions | 20+ Years of Innovation
 
