@@ -34,11 +34,8 @@
 
 <div align="center">
 
-### ☁️ Cloud Platforms
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-
-### 📊 Data & Analytics
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" title="Databricks" alt="Databricks" width="50" height="50"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Amazon-Redshift-Logo.svg" title="Redshift" alt="Redshift" width="50" height="50"/>&nbsp;
@@ -50,27 +47,27 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/MicroStrategy_logo.svg" title="MicroStrategy" alt="MicroStrategy" width="120" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="100" height="50"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/plotly/plotly-official.svg" title="Plotly" alt="Plotly" width="50" height="50"/>&nbsp;
-
-
-### 🔧 Data Engineering
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure SQL Database" alt="Azure SQL Database" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureLogicApps.svg" title="Azure Logic Apps" alt="Azure Logic Apps" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureSynapseAnalytics.svg" title="Azure Synapse Analytics" alt="Azure Synapse Analytics" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Apache Spark" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure Data Factory" alt="Azure Data Factory" width="50" height="50"/>&nbsp;
 <img src="https://cdn.simpleicons.org/airbyte" title="Airbyte" alt="Airbyte" width="50" height="50"/>&nbsp;
-<img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" title="SAP Datasphere" alt="SAP Datasphere" width="50" height="50"/>&nbsp;
-
-### 🛠️ DevOps & Tools
+<img src="https://img.shields.io/badge/SAP_Datasphere-008FD3?style=for-the-badge&logo=sap&logoColor=white" title="SAP Datasphere" alt="SAP Datasphere" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="50" height="50"/>&nbsp;
-
-### 🤖 AI & Machine Learning
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" title="Machine Learning" alt="ML" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="AI" alt="AI" width="50" height="50"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" title="IBM Bob" alt="IBM Bob" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/primefaces/primeicons/master/raw-svg/github.svg" title="GitHub Copilot" alt="GitHub Copilot" width="50" height="50"/>&nbsp;
+<img src="https://img.shields.io/badge/TOGAF_Standard-005A9C?style=for-the-badge&logo=architecture&logoColor=white" title="TOGAF Enterprise Architecture Framework" alt="TOGAF" height="50"/>&nbsp;
 
 </div>
 
