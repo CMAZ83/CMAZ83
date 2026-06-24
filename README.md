@@ -47,12 +47,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/MicroStrategy_logo.svg" title="MicroStrategy" alt="MicroStrategy" width="120" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="100" height="50"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/plotly/plotly-official.svg" title="Plotly" alt="Plotly" width="50" height="50"/>&nbsp;
+
 
 ### 🔧 Data Engineering
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Apache Spark" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure Data Factory" alt="Azure Data Factory" width="50" height="50"/>&nbsp;
-<img src="https://docs.airbyte.com/assets/images/logos/airbyte-logo.svg" title="Airbyte" alt="Airbyte" width="50" height="50"/>&nbsp;
+<img src="https://cdn.simpleicons.org/airbyte" title="Airbyte" alt="Airbyte" width="50" height="50"/>&nbsp;
 <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" title="SAP Datasphere" alt="SAP Datasphere" width="50" height="50"/>&nbsp;
 
 ### 🛠️ DevOps & Tools
@@ -65,8 +69,8 @@
 ### 🤖 AI & Machine Learning
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" title="Machine Learning" alt="ML" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="AI" alt="AI" width="50" height="50"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" title="IBM watsonx" alt="IBM watsonx" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Copilot" alt="GitHub Copilot" width="50" height="50"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" title="IBM Bob" alt="IBM Bob" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/primefaces/primeicons/master/raw-svg/github.svg" title="GitHub Copilot" alt="GitHub Copilot" width="50" height="50"/>&nbsp;
 
 </div>
 
