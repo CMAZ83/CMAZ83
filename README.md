@@ -67,7 +67,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="AI" alt="AI" width="50" height="50"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" title="IBM Bob" alt="IBM Bob" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/primefaces/primeicons/master/raw-svg/github.svg" title="GitHub Copilot" alt="GitHub Copilot" width="50" height="50"/>&nbsp;
-<img src="https://img.shields.io/badge/TOGAF_Standard-005A9C?style=for-the-badge&logo=architecture&logoColor=white" title="TOGAF Enterprise Architecture Framework" alt="TOGAF" height="50"/>&nbsp;
 
 </div>
 
